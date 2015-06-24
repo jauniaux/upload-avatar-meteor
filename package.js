@@ -1,8 +1,8 @@
 Package.describe({
     summary: "simple upload avatar package for meteor",
     version: "1.1.0",
-    name: "particle4dev:upload-avatar",
-    git: "https://github.com/particle4dev/upload-avatar-meteor.git"    
+    name: "jauniaux:upload-avatar",
+    git: "https://github.com/jauniaux/upload-avatar-meteor"    
 });
 
 // meteor test-packages ./
