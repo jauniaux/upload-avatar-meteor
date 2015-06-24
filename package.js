@@ -14,7 +14,6 @@ Package.on_use(function (api) {
     api.versionsFrom("METEOR@0.9.3");
 
     api.use(['underscore', 'accounts-base', 'accounts-password'], both);
-    api.use(['jquery', 'templating', 'mizzao:bootstrap-3@3.2.0_1'], client);
 
     //add file
     api.add_files([
